@@ -30,7 +30,7 @@ The analyses are presented in two notebooks:
 ***Evaluation Metrics***:
 
 ```
-		          Train Score	Train MSE	Train RMSE	Test Score	Test MSE	Test RMSE
+				Train Score	Train MSE		Train RMSE	Test Score		Test MSE		Test RMSE
 Blended Model	98.55%		  0.0023		0.04796		  93.34%		  0.0111		0.10536
 SVR		        93.42%		  0.0104		0.10198		  91.92%		  0.0135		0.11619
 GBM		        100.00%		  0.0000		0.00000		  91.12%		  0.0148		0.12166
